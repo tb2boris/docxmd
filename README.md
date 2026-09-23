@@ -10,7 +10,7 @@
 
 ![Окно разбора файла DOCX](img/docx.png)
 
-![Окно разбора файла XLSX](img/xslx.png)
+![Окно разбора файла XLSX](img/xlsx.png)
 
 ![Окно разбора файла PDF](img/pdf.png)
 
