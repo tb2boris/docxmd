@@ -1,0 +1,10 @@
+python-docx>=1.1.0
+openpyxl>=3.1.0
+pymupdf>=1.24.0
+pyyaml>=6.0
+Pillow>=10.0.0
+pytesseract>=0.3.10
+setuptools<81
+natasha>=1.6.0
+faker>=24.0.0
+pytest>=8.0.0
